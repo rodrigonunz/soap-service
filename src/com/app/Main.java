@@ -1,3 +1,5 @@
+package com.app;
+
 import com.app.services.BankImpl;
 
 import javax.xml.ws.Endpoint;
